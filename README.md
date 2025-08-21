@@ -1,3 +1,4 @@
+![logo](https://github.com/chinmayasahu123/chinmayasahu123/blob/main/git%20hub%20banner.jpg)
 <h1 align="center">Hi 👋, I'm Chinmaya Sahu</h1>
 <h3 align="center">I am a full Stack Web Developer</h3>
 
